@@ -1,0 +1,123 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+body{
+	background-color: white;
+	margin: auto;
+	width: 700px;
+	font-family: 'source sans pro', Arial Black, Tahoma, sans-serif;
+	font-size: 12px;
+	border:2px solid #3388CC;
+	border-radius: 5px;
+	box-shadow: 2px 3px 4px black;
+	padding:10px;
+	background-color: white;
+	background-size: cover;
+}
+
+#carre {
+    height: 60px;
+    width: 250px;
+    background: #2F2F8C ;
+    -ms-transform: rotate(180deg); /* Internet Explorer */
+    -moz-transform: rotate(180deg); /* Firefox */
+    -webkit-transform: rotate(180deg); /* Safari et Chrome */
+    -o-transform: rotate(180deg); /* Opera */
+}
+
+.photoinfo{
+	margin-top: 10px;
+	height: 150px;
+}
+
+.photo{
+	float: left;
+}
+
+#recherche{
+	color:#2F2F8C;
+}
+
+#recherche h1{
+	margin-left: 300px;
+}
+
+h1{
+	margin-top: -120px;
+	margin-right: 50px;
+	float: center;
+	text-align: center;
+}
+
+h2{
+	margin-left: 50px;
+	float: center;
+}
+
+#informations{
+	float: left;
+	margin-right: -45px;
+	margin-top: -630px;
+}
+
+h1{
+    margin-left: 0px;
+}
+
+p{
+	margin-left: -10px;
+}
+
+#contact{
+	float: left;
+	margin-left: 5px;
+	margin-top: -520px;
+}
+
+#contact h1{
+	margin-left: -8px;
+}
+
+
+.langues{
+	float: left;
+	margin-top: -290px;
+	margin-right: -150px;
+}
+
+.centre{
+	float: left;
+	margin-top: -100px;
+	margin-right: -150px;
+}
+
+.centre h1{
+	font-size: 20px;
+}
+
+.sec-d{
+    margin-left: 300px;
+    margin-top: 37px;
+}
+
+h2{
+	margin-left: -10px;
+}
+
+.sec-d:hover{
+	color: #D3C020;
+}
+
+#carre2 {
+    height: 60px;
+    width: 450px;
+    background: #2F2F8C ;
+    -ms-transform: rotate(180deg); /* Internet Explorer */
+    -moz-transform: rotate(180deg); /* Firefox */
+    -webkit-transform: rotate(180deg); /* Safari et Chrome */
+    -o-transform: rotate(180deg); /* Opera */
+    margin-left: 260px;
+}
