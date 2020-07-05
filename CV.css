@@ -14,7 +14,7 @@ body{
 	border-radius: 5px;
 	box-shadow: 2px 3px 4px black;
 	padding:10px;
-	background-color: white;
+	background-color: #FFFFFF;
 	background-size: cover;
 }
 
@@ -60,7 +60,7 @@ h2{
 #informations{
 	float: left;
 	margin-right: -45px;
-	margin-top: -630px;
+	margin-top: -700px;
 }
 
 h1{
@@ -74,7 +74,7 @@ p{
 #contact{
 	float: left;
 	margin-left: 5px;
-	margin-top: -520px;
+	margin-top: -580px;
 }
 
 #contact h1{
@@ -84,13 +84,13 @@ p{
 
 .langues{
 	float: left;
-	margin-top: -290px;
+	margin-top: -370px;
 	margin-right: -150px;
 }
 
 .centre{
 	float: left;
-	margin-top: -100px;
+	margin-top: -210px;
 	margin-right: -150px;
 }
 
@@ -99,7 +99,7 @@ p{
 }
 
 .sec-d{
-    margin-left: 300px;
+    margin-left: 280px;
     margin-top: 37px;
 }
 
