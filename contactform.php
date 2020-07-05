@@ -5,7 +5,6 @@
      $subject = $_POST['subject'];
 
      if(empty($fname)  || empty($lname) || empty($subject)){
-      
         header("Location: index.php?error");
      }else{
          
@@ -17,3 +16,4 @@
       header("Location: index.php?mailsend");
      }
  }
+ ?>
